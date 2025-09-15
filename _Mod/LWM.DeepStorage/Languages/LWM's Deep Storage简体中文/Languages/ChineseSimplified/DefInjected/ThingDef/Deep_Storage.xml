@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 一个简单的深层存储单元作为开始 -->
+
+  <LWM_BigShelf.label>双层置物架</LWM_BigShelf.label>
+  <LWM_BigShelf.description>用于存放杂物的架子。从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。都不是问题，全都能储存。
+
+存放于此的物品即使设备建在室外也不会劣化。
+
+容量是普通物品架的两倍。</LWM_BigShelf.description>
+
+  <LWM_VeryBigShelf.label>多层置物架</LWM_VeryBigShelf.label>
+  <LWM_VeryBigShelf.description>用于存放杂物的覆盖式高大架子，从炮弹到艺术品，从仿生臂到石砖，从椅子到尸体。都不是问题，全都能储存。
+
+殖民者会需要梯子爬上爬下收纳物品，尽管可以在此处存储很多东西，但是如果您在多层置物架上放很多物品，可能要花一些时间来取。存放于此的物品即使设备建在室外也不会劣化。
+
+注意：请自行判断您在此处放置的物品。巨大雕塑？实际上可能不适合。但是，你想这么作您想要的，那就玩吧！</LWM_VeryBigShelf.description>
+
+  <LWM_MealRack.label>餐点架。</LWM_MealRack.label>
+  <LWM_MealRack.description>这是一个高大的盘架；搬运工将加工食品和零食存放在这里。</LWM_MealRack.description>
+
+  <LWM_Food_Basket.label>食物篮</LWM_Food_Basket.label>
+  <LWM_Food_Basket.description>用于储存生食和植物原料的小型篮子。</LWM_Food_Basket.description>
+
+  <LWM_Meat_Hook.label>肉钩</LWM_Meat_Hook.label>
+  <LWM_Meat_Hook.description>一个高大的金属框架，链条上悬挂著多个钩子，使用简单的曲柄可以将数个悬挂物吊起。它提供了一种能储存动物、人或者同伴尸体的方法。然后，它们将会被切碎并被做成食物。你这个坏蛋。
+
+请注意，尸体只会放在同一个单元格。另外框架承受的重量有限。</LWM_Meat_Hook.description>
+
+  <LWM_Hayloft.label>干草仓</LWM_Hayloft.label>
+  <LWM_Hayloft.description>"干草仓是指谷仓、马厩或牛棚的上方空间，传统上用于存储干草或其他动物饲料。干草仓的使用主要是在工业规模的农业机械广泛应用之前，它允许产生无法轻易搬运的大型干草捆以进行存储..."-百科全书
+
+老实说。除非您使用一些我不知道的农业模组，否则您的殖民者可能正在堆放干草，这是缓慢而繁琐的工作。你知道吗？大多数耕种速度慢，劳动繁重，您的殖民者甚至不能雇佣其他殖民地的移民工人。尊重农民和农场工人：他们比您更加努力；）
+
+可用于在潮湿的地面上存放干草，青贮饲料和其他各种植物材料。您可能想要在（很高）屋顶下建造它。</LWM_Hayloft.description>
+
+  <LWM_FabricHamper.label>储物筐</LWM_FabricHamper.label>
+  <LWM_FabricHamper.description>一组用织物和铁架制作的篮子。宽大的口袋可轻松储存大量不同的物品。
+
+如果你真的想将织物存放在袋子里,请参阅模组设置!</LWM_FabricHamper.description>
+
+  <LWM_Pallet.label>托板</LWM_Pallet.label>
+  <LWM_Pallet.description>用于包装东西的扁平托板。无法抵抗天气变化。有时难以管理,但还是很有用。</LWM_Pallet.description>
+
+  <LWM_Pallet_Covered.label>包装托板</LWM_Pallet_Covered.label>
+  <LWM_Pallet_Covered.description>用于包装东西的扁平托板。用厚厚的油布包裹东西,确保物品安全。你可以在这个托板上包装更多类型的物品,因为你可以把物品包在一起,这会减慢你的速度。</LWM_Pallet_Covered.description>
+
+  <LWM_DeepStorage_Skip.label>废料箱</LWM_DeepStorage_Skip.label>
+  <LWM_DeepStorage_Skip.description>用于堆放重物的大型露天金属垃圾箱。
+
+注意：随意堆放大量物品意味着需要花时间才能找到想要的东西。形象点的话，就是假定您的殖民者必须爬进去并堆放所有东西，但是小狗可以轻松地将其捡起。</LWM_DeepStorage_Skip.description>
+
+  <LWM_Medicine_Cabinet.label>药品柜</LWM_Medicine_Cabinet.label>
+  <LWM_Medicine_Cabinet.description>一套用于储存药品和药品的橱柜和置物架。备注:请注意儿童。</LWM_Medicine_Cabinet.description>
+
+  <LWM_Clothing_Rack.label>衣架</LWM_Clothing_Rack.label>
+  <LWM_Clothing_Rack.description>一个带顶盖的架子，用于存放衣服，方便、快速地取用，房间整洁。</LWM_Clothing_Rack.description>
+
+  <LWM_Safe.label>保险箱</LWM_Safe.label>
+  <LWM_Safe.description>一个安全、可上锁的盒子，用于安全地存放贵重物品，防止盗窃或火灾损坏。
+
+(注意：尚未实施防火保护)</LWM_Safe.description>
+
+
+</LanguageData>

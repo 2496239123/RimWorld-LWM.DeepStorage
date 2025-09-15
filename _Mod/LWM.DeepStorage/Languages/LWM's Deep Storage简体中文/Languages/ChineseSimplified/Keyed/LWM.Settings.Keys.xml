@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- 设置 -->
+<LanguageData>
+  <LWMDSignoredDueTo>由于以下原因：mod {0}，此设置被忽略</LWMDSignoredDueTo>
+  <!--基础原版兼容性-->
+  <LWMDSVanillaShelves>原版置物架平衡</LWMDSVanillaShelves>
+  <LWMDSVanillaShelvesDesc>原版置物架默认20个材料。凳子默认25个材料。在我看来这很愚蠢…现实世界的廉价置物架比廉价椅子贵得多。一个置物架单位重量相当于两套板甲，高度也更高…货架(20)甚至比桌子(28)便宜，尽管有3-4层！我认为60个材料是更合理的造价。当然，您仍可选择原版造价。</LWMDSVanillaShelvesDesc>
+  <LWMDSVanillaShelvesCost>原版置物架新成本（原版20，LWM建议60）：</LWMDSVanillaShelvesCost>
+  <LWMDSmakeAllStorageDeepStorage>使所有存储都成为深度存储？</LWMDSmakeAllStorageDeepStorage>
+  <LWMDSmakeAllStorageDeepStorageDesc>将所有存储建筑(如原版置物架)视为深度存储。多数情况下影响不大，但会使您获得DS的精美库存选项卡。</LWMDSmakeAllStorageDeepStorageDesc>
+  
+  <!--搬运权限-->
+  <LWMDShaulToStorageExplanation>谁可以使用存储设备：\n默认只有人类(或类人外星人)具有将物品放入存储设备所需的行为能力：整理货架、操作门闩等。\n任何单位均可使用存储设备。</LWMDShaulToStorageExplanation>
+  <LWMDSrobotsCanUse>允许机器人使用大量存储设备？（支持部分机器人）</LWMDSrobotsCanUse>
+  <LWMDSrobotsCanUseDesc>允许机器人使用大量存储设备。支持"Misc.Robots"Mod中的机器人；即将支持Project RimFactory的无人机。</LWMDSrobotsCanUseDesc>
+  <LWM_DS_IntTitle>大量存储设备所需最低智力</LWM_DS_IntTitle>
+  <LWM_DS_IntDesc>此选项可调整使您的动物、机器人等能够搬运物品到存储设备。\n多数外星人MOD种族具有"人类"级智力。动物属于"动物"级。核心机械族和MOD机器人属于"工具使用者"级。\n注意：从存储设备取物无限制。</LWM_DS_IntDesc>
+  <LWM_DS_Int_Animal>动物（原版动物和MOD动物及部分机器人）</LWM_DS_Int_Animal>
+  <LWM_DS_Int_ToolUser>工具使用者（核心机械族和MOD机器人）</LWM_DS_Int_ToolUser>
+  <LWM_DS_Int_Humanlike>人类（原版人类/多数外星种族，默认）</LWM_DS_Int_Humanlike>
+
+  <!--存储时间设置-->
+  <LWMDSstoringDelaySettings>存储延迟设置</LWMDSstoringDelaySettings>
+  <LWMDSstoringDelayExplanation>默认将物品放入存储设备需要时间（用于整理）。计算可能涉及存储物品类型和数量。某些MOD会干扰此计算。</LWMDSstoringDelayExplanation>
+  <LWMDSstoringTakesTimeLabel>若要关闭存储延迟，请取消勾选</LWMDSstoringTakesTimeLabel>
+  <LWMDSstoringTakesTimeDesc>关闭此功能不符合LWM设计理念。但游戏由您掌控！</LWMDSstoringTakesTimeDesc>
+  <LWMDSstoringGlobalScale>全局存储时间：{0}%\n通过滑块调整存储所需时间（适用于所有存储单元）</LWMDSstoringGlobalScale>
+  <LWMDSstoringTimeConsidersStackSize>存储时间是否考虑堆叠数量？（Stack XXL? Ogre Stack?）</LWMDSstoringTimeConsidersStackSize>
+  <LWMDSstoringTimeConsidersStackSizeDesc>若启用（默认），存储75个堆叠物品可能比存储3个单独物品耗时更长。对废料箱影响显著。若使用大幅增加堆叠数量的MOD，建议关闭。</LWMDSstoringTimeConsidersStackSizeDesc>
+
+  <LWM_DS_defaultStoragePriority>大量存储默认优先级：</LWM_DS_defaultStoragePriority>
+
+  <!--用户界面-->
+  <LWM_DS_userInterface>用户界面</LWM_DS_userInterface>
+  <LWM_DS_useEjectButton>显示"弹出"(丢弃)按钮</LWM_DS_useEjectButton>
+  <LWM_DS_useEjectButtonDesc>在"内容"选项卡显示弹出按钮。更改立即生效。</LWM_DS_useEjectButtonDesc>
+  <LWM_DS_VanillaHasContentsInBrackets>RimWorld 1.4新增了货架物品选择按钮。但当存储957457件物品时，屏幕会被按钮填满。您可在此调整显示方式。（需重启）</LWM_DS_VanillaHasContentsInBrackets>
+  <LWM_DS_UseVanillaContentsInBrackets>原版设置</LWM_DS_UseVanillaContentsInBrackets>
+  <LWM_DS_UseVanillaContentsInBracketsDesc>选择存储建筑时，所有存储物品都显示为可选按钮。（需重启）</LWM_DS_UseVanillaContentsInBracketsDesc>
+  <LWM_DS_showContentsInBrackets>完全显示[物品按钮]？</LWM_DS_showContentsInBrackets>
+  <LWM_DS_showContentsInBracketsDesc>关闭后可减少杂乱，特别适合存储大量多样物品时。（需重启）</LWM_DS_showContentsInBracketsDesc>
+  <LWM_DS_howManyContentsInBrackets>最多显示多少[按钮]？</LWM_DS_howManyContentsInBrackets>
+  <LWM_DS_useDSRightClick>使用深度存储右键菜单</LWM_DS_useDSRightClick>
+  <LWM_DS_useDSRightClickDesc>自定义右键菜单更便捷（尤其搭配双持武器等MOD）。若出现问题可禁用并改用原版逻辑，但可能导致商队打包等操作更困难。（需重启）</LWM_DS_useDSRightClickDesc>
+
+  <!--建筑菜单设置-->
+  <LWM_DS_Storage_ArchitectMenuSettings>在建筑规划菜单中的位置：</LWM_DS_Storage_ArchitectMenuSettings>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>始终显示"存储"分类？</LWM_DS_Storage_ArchitectMenuAlwaysShowCategory>
+  <LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>默认所有深度存储建筑都在"存储"分类中。若更改，该分类会消失（除非勾选此项）。我们会尝试清理其他MOD的"存储"分类。</LWM_DS_Storage_ArchitectMenuAlwaysShowDesc>
+  <LWM_DS_Storage_ArchitectMenuMoveALL>将其他存储单元也移至"存储"分类？</LWM_DS_Storage_ArchitectMenuMoveALL>
+  <LWM_DS_Storage_ArchitectMenuMoveALLDesc>勾选后将移动原版货架等存储建筑到"存储"分类（生产类存储建筑如储料槽除外）。需完全重启才能关闭！若取消勾选，项目将暂存于"家具"分类直到重启。</LWM_DS_Storage_ArchitectMenuMoveALLDesc>
+
+  <!--其他设置-->
+  <LWMDSoverCapacityCheck>检查存储是否超容</LWMDSoverCapacityCheck>
+  <LWMDSoverCapacityCheckDesc>当存储建筑超容时，殖民者需要知道如何清理。关闭此项可允许其他存储MOD（如RimFactory）正常工作。</LWMDSoverCapacityCheckDesc>
+  
+  <!--图形-->
+  <LWMDSuseOldBoringStackingGraphic>使用旧版堆叠图形？（简洁但单调）</LWMDSuseOldBoringStackingGraphic>
+  <LWMDSuseOldBoringStackingGraphicDesc>RW 1.4起，存储物品会分层显示。许多人觉得杂乱。选择此项可使用所有物品重叠显示的旧图形。（需重启）</LWMDSuseOldBoringStackingGraphicDesc>
+
+  <!--单建筑设置-->
+  <LWMDSperDSUSettings>测试功能：修改存储建筑设置（警告）</LWMDSperDSUSettings>
+  <LWMDSperDSUturnOn>启用建筑设置修改：</LWMDSperDSUturnOn>
+  <LWMDSperDSUturnOnDesc>可编辑每个存储建筑的属性！请谨慎操作。关闭此选项将重置所有测试设置。</LWMDSperDSUturnOnDesc>
+  <LWMDSperDSUWarning>注意：除非启用上方选项，否则不会保存任何设置！</LWMDSperDSUWarning>
+  <LWMDSpDSUlabel>标签</LWMDSpDSUlabel>
+  <LWMDSpDSUshowContents>显示此类建筑的内容</LWMDSpDSUshowContents>
+  <LWMDSpDSUoverlay>使用哪种计数叠加（小数字）</LWMDSpDSUoverlay>
+  <LWMDSpDSUstoragePriority>该建筑的默认存储优先级</LWMDSpDSUstoragePriority>
+  <LWMDSpDSUchangeFilterQ>修改该建筑允许存储的物品</LWMDSpDSUchangeFilterQ>
+  <LWMDSpDSUchangeFilterQDesc>若未使用自定义物品列表，应取消勾选此项。</LWMDSpDSUchangeFilterQDesc>
+  <LWM_DS_Default>（默认值：{0}）</LWM_DS_Default>
+  <LWM.ResetAllToDefault>全部重置为默认</LWM.ResetAllToDefault>
+
+</LanguageData>

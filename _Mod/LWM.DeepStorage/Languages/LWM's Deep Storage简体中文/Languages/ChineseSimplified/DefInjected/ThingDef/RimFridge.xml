@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 添加新单位 RimFridge -->
+
+  <LWM_DS_RimFridge_Refrigerator.label>冷藏柜</LWM_DS_RimFridge_Refrigerator.label>
+  <LWM_DS_RimFridge_Refrigerator.description>地窖冰箱：一系列的搁板延伸到地板上，可以存放大量物品，并具有足够的隔热效果。进入较低的架子需要使用棘轮和链条，但存放在这里的食物不会变质。
+
+考虑到冷却系统需要挖出足够的安装空间和人力资源，无法随意移动位置，并且需要地下储存空间。</LWM_DS_RimFridge_Refrigerator.description>
+  <LWM_DS_RimFridge_Refrigerator_Blueprint.label>冷藏柜（蓝图）</LWM_DS_RimFridge_Refrigerator_Blueprint.label>
+  <LWM_DS_RimFridge_Refrigerator_Blueprint_Install.label>冷藏柜（蓝图）</LWM_DS_RimFridge_Refrigerator_Blueprint_Install.label>
+  <LWM_DS_RimFridge_Refrigerator_Frame.label>冷藏柜（建造中）</LWM_DS_RimFridge_Refrigerator_Frame.label>
+  <LWM_DS_RimFridge_Refrigerator_Frame.description>地窖冰箱：一系列的搁板延伸到地板上，可以存放大量物品，并具有足够的隔热效果。进入较低的架子需要使用棘轮和链条，但存放在这里的食物不会变质。
+
+考虑到冷却系统需要挖出足够的安装空间和人力资源，无法随意移动位置，并且需要地下储存空间。</LWM_DS_RimFridge_Refrigerator_Frame.description>
+
+
+</LanguageData>
