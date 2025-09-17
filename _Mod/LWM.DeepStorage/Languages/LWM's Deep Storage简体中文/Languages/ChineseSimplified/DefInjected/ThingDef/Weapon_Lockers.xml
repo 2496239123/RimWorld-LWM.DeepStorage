@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 也提供给懒得殖民的殖民者 -->
+
+  <LWM_WeaponsCabinet.label>武器柜</LWM_WeaponsCabinet.label>
+  <LWM_WeaponsCabinet.description>用于存放许多武器的坚固柜子。即使放在室外，存放其中的物品也不会老化。</LWM_WeaponsCabinet.description>
+
+
+  <!-- 或者给任何建造了良好且精细金属加工工具的人 -->
+
+  <LWM_WeaponsLocker.label>军用武器柜</LWM_WeaponsLocker.label>
+  <LWM_WeaponsLocker.description>用于存放大量武器的大容量金属武器柜。即使放在室外，存放其中的物品也不会老化。</LWM_WeaponsLocker.description>
+
+
+</LanguageData>

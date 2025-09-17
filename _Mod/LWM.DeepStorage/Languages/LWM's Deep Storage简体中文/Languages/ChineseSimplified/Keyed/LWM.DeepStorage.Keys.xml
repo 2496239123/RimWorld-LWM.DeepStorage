@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- 通用 -->
+  <NoItemsAreStoredHere>当前未存储任何物品。</NoItemsAreStoredHere>
+  <LWM_DS_Total>总计: {0}项</LWM_DS_Total>
+  <LWM_DS_PerCell>{0}项/单位</LWM_DS_PerCell><!-- {0} in each cell, {0} for each cell, etc -->
+  <LWM_DS_TotalAndPerCell>总计{0}项;{1}项/单位</LWM_DS_TotalAndPerCell>
+  <LWM_DS_kg>{0}公斤</LWM_DS_kg><!-- mass -->
+  <LWM_DS_BulkEtcOf>{0} {1}</LWM_DS_BulkEtcOf><!-- for CE:  "15 bulk", etc -->
+  <LWM_DSU_GainsName>{0}现在称为{1}。</LWM_DSU_GainsName><!-- rename building -->
+  <!-- 内容标签 -->
+  <LWM.ContentsHeaderMaxMass>{0} / {1}项，总重量：{3} / {4} 公斤</LWM.ContentsHeaderMaxMass>
+  <LWM.ContentsHeaderMax>{0} / {1}，总重量：{3} 公斤</LWM.ContentsHeaderMax>
+  <LWM.ContentsHeaderMinMax>{0}/{1}，上限{2}项，总重量{4}公斤</LWM.ContentsHeaderMinMax>
+  <LWM.ContentsHeaderStacksMax>{0}项物品数，上限{1}，限制总重：{3} 公斤</LWM.ContentsHeaderStacksMax>
+  <LWM.ContentsHeaderItemsMax>{0}项物品，上限{1}项(重量限制),总重量 {3} 公斤</LWM.ContentsHeaderItemsMax>
+  <LWM.ContentsDropDesc>将此物品扔到地板上,以便殖民者可以更轻松地使用。\n\n如果发现此按钮没有用处,可以在 mod 设置中将其关闭。</LWM.ContentsDropDesc>
+  <LWM.XStacks>{0}项物品数</LWM.XStacks><!-- Will be used above as 3 / 4 stacks with...-->
+  <LWM.XItems>{0}项物品</LWM.XItems><!-- 3 / 4 items ...-->
+  <LWM.ContentsHeaderMaxSize>    (单个物品不能超过{1}公斤)</LWM.ContentsHeaderMaxSize><!--mass of 3 kg, bulk of 2kg-->
+  <LWM.ContentsHeaderPawnUsing>  {0}正在运输物品。</LWM.ContentsHeaderPawnUsing>
+  <LWM.ContentsHeaderPawnsUsing> {0}正在运输物品。</LWM.ContentsHeaderPawnsUsing><!-- "Red, John, Abigail" etc -->
+  <LWM_DS_Empty>空</LWM_DS_Empty>
+  <!-- 状态文本(信息窗口) -->
+  <LWM_DS_maxNumStacks>最大堆叠数量</LWM_DS_maxNumStacks>
+  <LWM_DS_maxNumStacksDesc>每个单元格的最大堆叠数量。 拥有2个单元格的建筑需要两倍的储存空间\n\n请注意，实际储存容量可能由于其他因素而降低。</LWM_DS_maxNumStacksDesc>
+  <LWM_DS_minNumStacks>最小堆叠数量</LWM_DS_minNumStacks>
+  <LWM_DS_minNumStacksDesc>每个单元格的最小堆叠数量。\n\n无论如何，此存储单元格都可以存储至少{0}个物品。</LWM_DS_minNumStacksDesc>
+  <LWM_DS_maxTotalMass>最大总重量</LWM_DS_maxTotalMass>
+  <LWM_DS_maxTotalMassDesc>设备允许储存的最大重量。设备装满后，不能再放入任何物品(大多数大量储存单元格都可以储存至少2个物品)  如果建筑占据大于1个单元格，则各单元格会允许最大重量平均计算。</LWM_DS_maxTotalMassDesc>
+  <LWM_DS_maxMassOfStoredItem>储存物品最大重量</LWM_DS_maxMassOfStoredItem>
+  <LWM_DS_maxMassOfStoredItemDesc>允许储存物品的最大重量。由于系统没有「大小」的概念，这里是使用重量。如果您使用CE，该数值将以体积（Bulk）代替。\n\n而且事实上，有些物品会因为太大或太重而无法放入。</LWM_DS_maxMassOfStoredItemDesc>
+  <LWM_DS_allowedCategories>可储存类别</LWM_DS_allowedCategories>
+  <LWM_DS_allowedCategoriesDesc>该建筑能储存的物品类别。\n\n如果您正在使用除LWM Deep Storage以外的mod，可能导致描述不准确。另外请注意，一些特定物品可能因为其他原因而导致适用性发生变化。</LWM_DS_allowedCategoriesDesc>
+  <LWM_DS_allowedDefs>可存储物品</LWM_DS_allowedDefs>
+  <LWM_DS_allowedDefsDesc>该建筑能储存的物品\n\n如果您正在使用除LWM Deep Storage以外的mod，可能导致描述可能不准确。另外请注意，一些特定物品可能因为其他原因而导致适用性发生变化。</LWM_DS_allowedDefsDesc>
+  <LWM_DS_disallowedStuff>  不可存储</LWM_DS_disallowedStuff><!--    (not storable), Not Storable, etc. -->
+  <LWM_DS_disallowedStuffDesc>您可能认为这些类别可以储存在这种类型的单元格里，但您错了，它们并不能。\n\n如果您正在使用除LWM Deep Storage以外的mod，可能导致描述不准确。另外请注意，一些特定物品可能因为其他原因而导致适用性发生变化。</LWM_DS_disallowedStuffDesc>
+
+</LanguageData>
